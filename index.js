@@ -68,7 +68,7 @@ let longText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Sed hend
 
 
 var words = longText.split(" ");
-console.log("Number of words in the string: " + words.length);
+console.log("Numero de palabras en el texto: " + words.length);
 
 var etCounter = 0;
 for (var i = 0; i < longText.length; i++) {
@@ -81,8 +81,7 @@ console.log(" 'et' aparece: " + etCounter + " en el Lorem Ipsum");
 
 //BONUS 2
 
-
-
+let string = " "
 
 
 
